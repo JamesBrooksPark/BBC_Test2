@@ -1,0 +1,91 @@
+{
+  "duration": 254.8,
+  "loop": false,
+  "outPoints": [],
+  "objects": [
+    {
+      "objectId": "1-Elevator",
+      "objectBehaviours": [
+        {
+          "behaviourType": "allowedEverywhere"
+        }
+      ],
+      "items": [
+        {
+          "start": 0,
+          "duration": 254.8,
+          "source": {
+            "channelMapping": "stereo",
+            "panning": 0,
+            "type": "dash",
+            "url": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/1Elevator_000000/manifest.mpd",
+            "urlSafari": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/1Elevator_000000/manifest-safari.mpd"
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "2-Elevator",
+      "objectBehaviours": [
+        {
+          "behaviourType": "allowedEverywhere"
+        }
+      ],
+      "items": [
+        {
+          "start": 0,
+          "duration": 254.8,
+          "source": {
+            "channelMapping": "stereo",
+            "panning": 0,
+            "type": "dash",
+            "url": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/2Elevator_000000/manifest.mpd",
+            "urlSafari": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/2Elevator_000000/manifest-safari.mpd"
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "3-Elevator",
+      "objectBehaviours": [
+        {
+          "behaviourType": "allowedEverywhere"
+        }
+      ],
+      "items": [
+        {
+          "start": 0,
+          "duration": 254.8,
+          "source": {
+            "channelMapping": "stereo",
+            "panning": 0,
+            "type": "dash",
+            "url": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/3Elevator_000000/manifest.mpd",
+            "urlSafari": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/3Elevator_000000/manifest-safari.mpd"
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "4-Elevator",
+      "objectBehaviours": [
+        {
+          "behaviourType": "allowedEverywhere"
+        }
+      ],
+      "items": [
+        {
+          "start": 0,
+          "duration": 254.8,
+          "source": {
+            "channelMapping": "stereo",
+            "panning": 0,
+            "type": "dash",
+            "url": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/4Elevator_000000/manifest.mpd",
+            "urlSafari": "audio/46fc1162-33b6-4ab2-9ac9-a282cd4e8162/4Elevator_000000/manifest-safari.mpd"
+          }
+        }
+      ]
+    }
+  ]
+}
